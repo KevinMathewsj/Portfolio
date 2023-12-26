@@ -1,6 +1,7 @@
-body{
+body {
     background-color: beige;
 }
+
 .frow {
     background-color: lightgrey;
     font-family: 'Times New Roman', Times, serif;
@@ -8,43 +9,52 @@ body{
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
-    }
-   .dev{
-text-align: center;
-font-size: 28px;
-font-family: 'Times New Roman', Times, serif;
-    }
-    .left h1{
-       background-color: lightsalmon;
-       font-family: 'Times New Roman', Times, serif;
-       font-size: 25px;
-       padding-left: 10px;
-    }
-  
-    .list{
-        font-size: 18px;
-    }
-    .t{
-        border-radius: 5px;
-        border-color: red;
-        font-size: 20px; 
-        text-align: center;
-    }
-    .t th{
-        color: blue;
-    }
-    .t th,td{
-        padding: 5px;
-    }
-    .left h2{
-        text-align: center;
-    }
-    footer{
-        background-color: black;
-        color: white;
-        text-decoration: none;
-        padding: 10px;
-    }
-    footer a{
-        color:white
-    }
+}
+
+.dev {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.left h1 {
+    background-color: lightsalmon;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.list {
+    font-size: 18px;
+}
+
+.t {
+    border-radius: 5px;
+    border-color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.t th {
+    color: blue;
+}
+
+.t th,
+td {
+    padding: 5px;
+}
+
+.left h2 {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+footer a {
+    color: white
+}
