@@ -1,0 +1,32 @@
+.frow {
+background-color: lightgrey;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+padding: 5px;
+display: flex;
+justify-content: space-between;
+}
+.left h1{
+   background-color: pink;
+}
+.list{
+    font-size: 20px;
+}
+.t{
+    border-radius: 5px;
+    border-color: red;
+    font-size: 20px;
+    padding: 5px;  
+}
+.t th{
+    color: blue;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+footer a{
+    color:white
+}
